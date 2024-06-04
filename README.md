@@ -1,1 +1,1 @@
-# gohugo_bug_repoirt
+# gohugo_bug_report
