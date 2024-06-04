@@ -1,0 +1,1 @@
+# gohugo_bug_repoirt
